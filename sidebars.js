@@ -6,11 +6,8 @@ module.exports = {
         "getting-started/install"
       ],
     },
-   "setting/setting-management",
-   "integration-action/integration-action",
-   "conditional-logic",
+   "widget/widgets",
     "changelog/overview",
-    "bit-integration-feature-request"
   ],
   
   

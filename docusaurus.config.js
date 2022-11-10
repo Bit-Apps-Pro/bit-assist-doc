@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Bit Integrations | Connect 3rd party platfroms with WordPress',
-  tagline: 'Integration plugin for WordPress',
-  url: 'https://docs.bit-integrations.bitapps.pro/',
+  title: 'Bit Assist | Connect your all support assistant in a single button',
+  tagline: 'Communicate With Your Customers Using Different Messaging Apps',
+  url: 'https://docs.bit-assist.bitapps.pro/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -29,23 +29,23 @@ module.exports = {
         },
         // { to: 'blog', label: 'Blog', position: 'left' },
         {
-          to: '/changelog/bit-integrations-changelog-timeline',
+          to: '/changelog/bit-assist-changelog-timeline',
           label: 'Changelogs',
           position: 'left',
           activeBasePath: '/changelog'
         },
-        {
-          href: '/bit-integration-feature-request',
-          label: 'Integration Request',
-          position: 'left',
-        },
+        // {
+        //   href: '/bit-assist-feature-request',
+        //   label: 'Integration Request',
+        //   position: 'left',
+        // },
         {
           href: 'https://tawk.to/chat/60eac4b6d6e7610a49aab375/1faah0r3e',
           label: 'Support',
           position: 'left',
         },
         {
-          href: 'https://downloads.wordpress.org/plugin/bit-integrations.zip',
+          href: 'https://downloads.wordpress.org/plugin/bit-assist.zip',
           label: 'Free Download',
           position: 'right',
           className: 'download-btn'
@@ -67,16 +67,8 @@ module.exports = {
               to: 'install-activate-bit-integrations',
             },
             {
-              label: 'Trigger',
-              to: 'trigger/trigger-wpcf7',
-            },
-            {
-              label: 'Actions',
-              to: 'integrations/wpcf7-activecampaign',
-            },
-            {
               label: 'Integration Request',
-              to: '/bit-integration-feature-request',
+              to: '/bit-assist-feature-request',
             },
           ],
         },
@@ -98,11 +90,11 @@ module.exports = {
           items: [
             {
               label: 'Changelog',
-              to: 'changelog/bit-integrations-changelog-timeline/',
+              to: 'changelog/bit-assist-changelog-timeline/',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/Bit-Apps-Pro/bit-integrations-doc',
+              href: 'https://github.com/Bit-Apps-Pro/bit-assist-doc',
             },
           ],
         },
@@ -119,7 +111,7 @@ module.exports = {
           // path: './docs',
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/Bit-Apps-Pro/bit-integrations-doc/blob/main',
+          editUrl: 'https://github.com/Bit-Apps-Pro/bit-assist-doc/tree/main',
         },
         blog: false,
         pages: false,

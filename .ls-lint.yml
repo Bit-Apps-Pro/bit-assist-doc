@@ -1,0 +1,25 @@
+ls:
+    .dir: kebab-case
+    .js: kebab-case
+    .mdx: kebab-case
+    .css: kebab-case
+    .png: kebab-case
+    .jpg: kebab-case
+    .svg: kebab-case
+    .jpeg: kebab-case
+    .gif: kebab-case
+    .json: kebab-case
+    .mp4: kebab-case
+ignore: 
+    - .git 
+    - node_modules
+    - .docusaurus
+    - .vscode
+    - .github
+    - .cache
+    - .next
+    - .husky
+    - build
+    - babel.config.js
+    - docusaurus.config.js
+    - styles.module.css

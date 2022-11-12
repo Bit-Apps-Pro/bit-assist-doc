@@ -45,7 +45,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://downloads.wordpress.org/plugin/bit-assist.zip',
+          href: 'https://wordpress.org/plugins/bit-assist/',
           label: 'Free Download',
           position: 'right',
           className: 'download-btn'

@@ -64,7 +64,7 @@ module.exports = {
           items: [
             {
               label: 'Install & Activate',
-              to: 'install-activate-bit-integrations',
+              to: 'install-activate-bit-assist',
             },
             {
               label: 'Integration Request',

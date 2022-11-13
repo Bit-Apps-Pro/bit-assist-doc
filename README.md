@@ -1,4 +1,4 @@
-<img src='https://docs.bit-assist.bitapps.pro/logo.svg' alt="bit-assist-doc-logo" height="150">
+<img src='https://docs.bit-assist.bitapps.pro/img/logo.svg' alt="bit-assist-doc-logo" height="150"> 
 
 
 #  Bit Assist - Connect your all support assistant in a single button

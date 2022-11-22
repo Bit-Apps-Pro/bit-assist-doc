@@ -87,7 +87,7 @@ There are also some notable features which is very unique like Knowledgebase, Fr
 
 📧 [**Bit SMTP**](https://wordpress.org/plugins/bit-smtp/): The ultimate goal of Bit SMTP plugin to make your email deliverability more easy as well as secure.
 
-**[Bit Assist Website](https://www.bitapps.pro/bit-assist/)**
+<img src='https://docs.bit-assist.bitapps.pro/img/logo.svg' alt="bit-assist-doc-logo" height="10"> **[Bit Assist Website](https://www.bitapps.pro/bit-assist/)**
 
 == Installation ==
 
@@ -98,6 +98,6 @@ There are also some notable features which is very unique like Knowledgebase, Fr
 5. Once installed, click “Activate”.
 
 
-== Changelog ==
-= v1.0.0 (Nov 7, 2022) =
-* Initial release
+== Changelog ==  
+Free changelog: [https://docs.bit-assist.bitapps.pro/changelog/bit-assist-changelog-timeline](https://docs.bit-assist.bitapps.pro/changelog/bit-assist-changelog-timeline)  
+Pro changelog: [https://docs.bit-assist.bitapps.pro/changelog/bit-assist-pro-version-changelog-timeline](https://docs.bit-assist.bitapps.pro/changelog/bit-assist-pro-version-changelog-timeline)

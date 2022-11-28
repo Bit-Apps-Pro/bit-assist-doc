@@ -16,7 +16,7 @@ export default function FeedBack() {
 }
 function FeedbackClient() {
   const FEEDBACK_URL = 'https://wp-api.bitapps.pro/feedback'
-  const PRODUCT = 'bit-integration-docs'
+  const PRODUCT = 'bitassist'
   const [feedBackOpen, setFeedBackOpen] = useState(false)
   const [form, setForm] = useState({})
   const [error, setError] = useState({})

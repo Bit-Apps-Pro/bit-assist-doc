@@ -28,6 +28,7 @@ module.exports = {
         "channels/tiktok",
         "channels/twitter",
         "channels/viber",
+        "channels/waze",
         "channels/wechat",
         "channels/whatsapp",
         "channels/youtube",

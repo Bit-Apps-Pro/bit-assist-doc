@@ -20,7 +20,7 @@
 
 Connect with your visitor using their favorite Facebook Messenger, WhatsApp, Tawk to, Telegram, Viber, Slack etc. 
 
-There are also some notable features which is very unique like Knowledgebase, Frequently Asked Question (FAQ), Custom Contact Form, Webhook etc.
+There are also some notable features which is very unique like Knowledge base, Frequently Asked Question (FAQ), Custom Contact Form, Webhook etc.
  
  You can also use this plugin in other platform like Shopify, Webflow, Wix, BigCommerce, Squarespace etc. The plugin will be hosted on your WordPress but you can use it on multiple platform.
  
@@ -72,7 +72,8 @@ There are also some notable features which is very unique like Knowledgebase, Fr
 20. Custom Form
 21. Knowledge Base
 22. FAQ
-23. More Comming Soon
+23. Custom Channel
+23. More Coming Soon
 
  
 [Request for more features](https://www.facebook.com/groups/bitapps/) 

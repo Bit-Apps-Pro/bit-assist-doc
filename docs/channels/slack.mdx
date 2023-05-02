@@ -1,6 +1,6 @@
 ---
 id: slack
-title: Setup Slack as Channel
+title: Set up Slack as a Customer Support Channel on your website
 sidebar_label: Slack
 slug: /slack
 ---
@@ -9,9 +9,8 @@ import Image from "@site/src/components/Image";
 import Feedback from "@site/src/components/Feedback";
 
 
+Slack is a popular platform for team communication, and it can be integrated with your website using the Bit-Assist plugin. With this integration, you can streamline your customer support messaging and provide a better experience for your users. Setting up Slack as a channel is a simple process that can be done in just a few steps. In this guide, we'll walk you through the process of integrating Slack with Bit-Assist so that you can start using this powerful tool to enhance your website's messaging capabilities.
 
-
-<!-- ## Overview -->
 
 ## Setup a Channel
 
@@ -30,6 +29,26 @@ import Feedback from "@site/src/components/Feedback";
  
 5.	Input your ***Slack workspace unique-id*** 
   <Image src="channels/slack/channel-username" alt="Bit Assist" w="1046" h="200"/>
+<details>
+      <summary>
+       <b>How to get your Slack workspace unique-id</b>
+      </summary>
+      <div>
+          <ul>
+            <li>First, Login your Slack account</li>
+            <li>Click on your workspace name that is in the top left corner.
+                  <Image src="channels/slack/click-workspace" alt="Bit Assist" w="1046" h="200"/>
+              </li>
+            <li>To edit the details of your Slack workspace, click on the workspace name or logo, which is at the top of the pop-up.
+                  <Image src="channels/slack/slack-workspace-edit-details" alt="Bit Assist" w="1046" h="200"/>
+             </li>
+            <li>Copy your workspace id in the URL field.
+                <Image src="channels/slack/copy-workspace-url" alt="Bit Assist" w="1046" h="200"/>
+             </li>
+            <li>Then paste into the Slack workspace the unique-id field of your channels popup.</li>
+         </ul>
+      </div>
+</details>
 
 6.	With this `On click open channel on` feature of Widget Options, You can open your channel in a new tab, or current tab, or a new window. Default it's taken, New Tab
   <Image src="channels/open-channel" alt="Bit Assist" w="1046" h="200"/>
@@ -47,4 +66,4 @@ import Feedback from "@site/src/components/Feedback";
 
 
 
-<Feedback/>
+<Feedback/>npm 

@@ -1635,7 +1635,7 @@
     cssesc "^3.0.0"
     immediate "^3.2.3"
 
-"@easyops-cn/docusaurus-search-local@^0.23.2":
+"@easyops-cn/docusaurus-search-local@^0.23.3":
   version "0.23.3"
   resolved "https://registry.yarnpkg.com/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.23.3.tgz#63c5f6b67471ff25138a02c640db91cc24ff1e36"
   integrity sha512-eJgtDtTtOWa3XJirDCGQh2Bcai04UG+5ISe5XhTFv2f80fxHsmQDE2YDj62xLem6Md8hI3VjKuJXOTlUgQKKtw==
@@ -2021,7 +2021,7 @@
     deepmerge "^4.2.2"
     svgo "^2.8.0"
 
-"@svgr/webpack@^6.2.1":
+"@svgr/webpack@^6.2.1", "@svgr/webpack@^6.5.1":
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/@svgr/webpack/-/webpack-6.5.1.tgz#ecf027814fc1cb2decc29dc92f39c3cf691e40e8"
   integrity sha512-cQ/AsnBkXPkEK8cLbv4Dm7JGXq2XrumKnL1dRpJD9rIO2fTIlJI9a1uCciYG1F2aUsox/hJQyNGbt3soDxSRkA==
